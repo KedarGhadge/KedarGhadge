@@ -14,7 +14,8 @@ I am interested in Fullstack development
 
 ### **Contact Me**
 
-> LinkedIN: [Kedar Ghadge](www.linkedin.com/in/kedarghadge)
+> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+> > LinkedIN: [Kedar Ghadge](www.linkedin.com/in/kedarghadge) 
 
 
 * * *
