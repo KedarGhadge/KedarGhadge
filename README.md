@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/kedarghadge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kedarghadge" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12919450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12919450" height="30" width="40" /></a>
 <a href="https://instagram.com/k.the.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k.the.r" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kghadge84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kghadge84" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kedyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kghadge84" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
