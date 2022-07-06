@@ -12,6 +12,14 @@ I am interested in Fullstack development
 
 * * *
 
+<img align="left" width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=kedarghadge&show_icons=true&theme=dracula">
+ 
+<img align="left" width="50%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedarghadge&layout=compact">
+
+<br />
+
+* * *
+
 ### **Contact Me**
 
 > ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
