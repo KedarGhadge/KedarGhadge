@@ -12,14 +12,6 @@ I am interested in Fullstack development
 
 * * *
 
-<img align="left" width="48%" height="49%" src="https://github-readme-stats.vercel.app/api?username=kedarghadge&show_icons=true&theme=dracula">
- 
-<img align="left" width="48%" height="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedarghadge&layout=compact">
-
-<br />
-
-* * *
-
 ### **Contact Me**
 
 > ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -43,3 +35,9 @@ I am interested in Fullstack development
 • Instead of only achieving targets in time, customer satisfaction was my main motive while working with any project. So that’s how I always loved my work.</br>
 • And lastly I don’t like to advertise this fact, but other than curricular I always keep my self active in no curricular activities in company as well. Like trekking , mimicry, small acts or dancing.</br>
 </details>
+
+* * * 
+
+<img align="left" width="45%" height="49%" src="https://github-readme-stats.vercel.app/api?username=kedarghadge&show_icons=true&theme=dracula">
+ 
+<img align="left" width="45%" height="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedarghadge&layout=compact">
