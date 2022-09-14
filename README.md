@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Single Page application](https://github.com/KedarGhadge/SPA.git)
+- 🔭 I’m currently working on [Single Page application](https://github.com/KedarGhadge/SPA.git).
 
 - 🌱 I’m currently learning **Knockout.js, node.js, MVC**
 
